@@ -1,0 +1,2 @@
+CREATE LOGIN cr46 WITH PASSWORD = 'Sql@1234';
+CREATE USER cr46 for login cr46; 
